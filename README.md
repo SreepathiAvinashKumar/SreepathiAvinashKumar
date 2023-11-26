@@ -1,7 +1,8 @@
 <h1 align="center">Hey 👋, I'm Avinash Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- Hi i am working on **Machine learning**
+<p align="center"> - Hi i am working on **Machine learning**</p>
+
 
 - I am currently learning **Machine Learning**
 

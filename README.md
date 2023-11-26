@@ -2,15 +2,15 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-<h5 align="center">Hi i am working on <b>Machine learning</b></h3>
+<h4 align="center">Hi i am working on <b>Machine learning</b></h4>
 
-<h5 align="center">I am currently learning <b>Machine Learning</b></h3>
+<h4 align="center">I am currently learning <b>Machine Learning</b></h4>
 
-<h5 align="center">💬 Ask me about <b>React</b></h3>
+<h4 align="center">💬 Ask me about <b>React</b></h3>
 
-<h5 align="center">📫 How to reach me <b>avinashsripathi4@gmail.com</b></h3>
+<h4 align="center">📫 How to reach me <b>avinashsripathi4@gmail.com</b></h4>
 
-<h5 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/sripathiavinashkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sripathiavinashkumar" height="30" width="40" /></a>

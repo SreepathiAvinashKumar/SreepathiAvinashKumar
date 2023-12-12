@@ -1,7 +1,5 @@
-<div>
-
 <div align="center" style="display:flex;flex-direction:column;align-items:center">
-
+<div>
 <h1 >Hey 👋, I'm Avinash Kumar</h1>
 
 <h2 > A Passionate Full Stack Developer from India</h2>

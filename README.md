@@ -1,6 +1,6 @@
 <div>
 
-<div style="display:flex;flex-direction:column;align-items:center">
+<div align="center" style="display:flex;flex-direction:column;align-items:center">
 
 <h1 >Hey 👋, I'm Avinash Kumar</h1>
 
@@ -19,7 +19,7 @@
 </div>
 
 
-<div style="display:flex;margin:5px;justify-content:center">
+<div align="center" style="display:flex;margin:5px;justify-content:center">
 <a href="https://linkedin.com/in/sripathiavinashkumar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sripathiavinashkumar" height="25" width="30"/></a>
 &nbsp; &nbsp;
 <a href="https://www.hackerrank.com/sripathiavinash4" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sripathiavinash4" height="30" width="30" /></a>
@@ -34,13 +34,13 @@
 
 <h2 align="center">Languages and Tools:</h2>
 
-<div style="display:flex;flex-direction:row;padding:5px;">
+<div style="display:flex;flex-direction:row;">
 
-<div style="display:flex;flex-direction:column;margin:10px;">
+<div style="display:flex;">
+  
+**Programming Languages**
 
--  **Programming Languages**
-
-  <div style="display:flex;">
+<div style="display:flex;">
  &nbsp; &nbsp; 
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -48,7 +48,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 </div> <br>
 
-- **Others** 
+**Others** 
 
 <div style="display:flex">
 &nbsp; &nbsp; &nbsp;
@@ -59,10 +59,10 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> 
-
 </div>
 
-- **AI & ML**
+ **AI & ML**
+ 
 <div style="display:flex">
 &nbsp; &nbsp; &nbsp;
 
@@ -73,10 +73,9 @@
 
 </div>
 
+<div style="float:right;">
 
-<div style="display:flex;flex-direction:column;margin:10px;">
-
-- **Frontend Development** 
+**Frontend Development** 
 
 <div style="display:flex">
   &nbsp; &nbsp; &nbsp;
@@ -90,32 +89,25 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </div><br>
 
--  **Database** 
-<div style="display:flex;>
+**Database**
 
-&nbsp; &nbsp; 
-
+<div style="display:flex;flex-direction:row;">
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 </a>
-
 </div>
 
-- **Backend Development**
+**Backend Development**
 
-<div style="display:flex">
-&nbsp; &nbsp;  &nbsp;
+<div style="display:flex;flex-direction:row;">
+  
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a>
 
 </div>
 </div>
 </div>
-
-
 
 
 <div style="display:flex;flex-direction:row;justify-content:space-around;">

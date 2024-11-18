@@ -1,7 +1,7 @@
 <div align="center" style="display:flex;flex-direction:column;align-items:center">
 <div>
 <h1 >Hey 👋, I'm Avinash Kumar</h1>
-<h2 > A Passionate Full Stack Developer from India</h2>
+<h2 > A Passionate AI Engineer from India</h2>
 <p>🔭 I am working on <b>Machine learning and Data Science Projects</b></p>
 <p >🌱 I am currently learning <b>Machine Learning </b></p>
 <p>💬 You can Ask me about <b>Web Development Tech</b></p>

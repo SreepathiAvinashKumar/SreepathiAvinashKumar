@@ -2,7 +2,7 @@
 <div>
 <h1 >Hey 👋, I'm Avinash Kumar</h1>
 <h2 > A Passionate AI Engineer from India</h2>
-<p>🔭 I am working on <b>Machine learning and Data Science Projects</b></p>
+<p>🔭 I am working on <b>Machine learning, Deep Learning Projects</b></p>
 <p >🌱 I am currently learning <b>Machine Learning </b></p>
 <p>💬 You can Ask me about <b>Web Development Tech</b></p>
 <p>👨‍💻 Check my details at <a> https://sreepathiavinashkumar.github.io/portfolio</a></p>

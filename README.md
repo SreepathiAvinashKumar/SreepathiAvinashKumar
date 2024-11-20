@@ -1,5 +1,5 @@
 <div align="center" style="display:flex;flex-direction:column;align-items:center">
-<div>
+
 <h1 >Hey 👋, I'm Avinash Kumar</h1>
 <h2 > A Passionate AI Engineer from India</h2>
 <p>🔭 I am working on <b>Machine learning, Deep Learning Projects</b></p>
@@ -7,7 +7,6 @@
 <p>💬 You can Ask me about <b>Web Development Tech</b></p>
 <p>👨‍💻 Check my details at <a> https://sreepathiavinashkumar.github.io/portfolio</a></p>
 <p>📫 You can mail me through <b>avinashsripathi4@gmail.com</b></p>
-</div>
 
 <div align="center" style="display:flex;margin:5px;justify-content:center">
 <a href="https://linkedin.com/in/sripathiavinashkumar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sripathiavinashkumar" height="25" width="30"/></a>

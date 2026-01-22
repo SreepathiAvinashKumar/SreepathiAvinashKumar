@@ -38,7 +38,3 @@
 <a href="https://kaggle.com/sripathiavinashkumar" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 <a href="https://www.leetcode.com/avinashsripathi4" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sreepathiavinashkumar/sreepathiavinashkumar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>

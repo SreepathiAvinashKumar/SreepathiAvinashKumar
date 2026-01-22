@@ -1,104 +1,44 @@
-<div align="center" style="display:flex;flex-direction:column;align-items:center">
+# ⚡ Hello World, I'm Avinash Kumar 
+### 🚀 Passionate AI Engineer & Full-Stack Developer from India
 
-<h1 >Hey 👋, I'm Avinash Kumar</h1>
-<h2 > A Passionate AI Engineer from India</h2>
-<p>🔭 I am working on <b>Machine learning, Deep Learning Projects</b></p>
-<p >🌱 I am currently learning <b>Machine Learning </b></p>
-<p>💬 You can Ask me about <b>Web Development Tech</b></p>
-<p>👨‍💻 Check my details at <a> https://sreepathiavinashkumar.github.io/portfolio</a></p>
-<p>📫 You can mail me through <b>avinashsripathi4@gmail.com</b></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreepathiavinashkumar&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sreepathiavinashkumar&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" height="180px" />
+</p>
 
-<div align="center" style="display:flex;margin:5px;justify-content:center">
-<a href="https://linkedin.com/in/sripathiavinashkumar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sripathiavinashkumar" height="25" width="30"/></a>
-&nbsp; &nbsp;
-<a href="https://www.hackerrank.com/sripathiavinash4" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sripathiavinash4" height="30" width="30" /></a>
-&nbsp; &nbsp;
-<a href="https://www.leetcode.com/avinashsripathi4" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avinashsripathi4" height="25" width="30" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sripathiavinashkumar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sripathiavinashkumar" height="30" width="40" /></a>
-&nbsp;
-<a href="https://medium.com/@avinashsripathi4" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@avinashsripathi4" height="30" width="40" /></a>
+---
 
-</div>
+### 👨‍💻 About Me
+- 🔭 **Focus:** Deep Learning, Machine Learning, and Audio Signal Processing.
+- 🌱 **Learning:** Advanced DNN architectures for speech solutions and signal processing.
+- 💬 **Ask me about:** React, Django, Python, and MLOps.
+- 🎯 **Goal:** Building innovative AI-driven tools that solve real-world problems.
+- 📄 **Portfolio:** [sreepathiavinashkumar.github.io/portfolio](https://sreepathiavinashkumar.github.io/portfolio)
 
+---
 
-<h2 align="center">Languages and Tools:</h2>
+### 🛠️ Tech Stack
 
-<div style="display:flex;flex-direction:row;">
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **AI & ML** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
+| **DevOps/Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
-<div style="display:flex;">
-  
-**Programming Languages**
+---
 
-<div style="display:flex;">
- &nbsp; &nbsp; 
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/sripathiavinashkumar" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:avinashsripathi4@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://medium.com/@avinashsripathi4" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://kaggle.com/sripathiavinashkumar" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+<a href="https://www.leetcode.com/avinashsripathi4" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+</p>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-</div> <br>
-
-**Others** 
-
-<div style="display:flex">
-&nbsp; &nbsp; &nbsp;
-
-&nbsp; &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-&nbsp;
-</div>
-
- **AI & ML**
- 
-<div style="display:flex">
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-</div>
-
-</div>
-
-<div style="float:right;">
-
-**Frontend Development** 
-
-<div style="display:flex">
-  &nbsp; &nbsp; &nbsp;
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-
-</div><br>
-
-**Database**
-
-<div style="display:flex;flex-direction:row;">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-</a>
-</div>
-
-**Backend Development**
-
-<div style="display:flex;flex-direction:row;">
-  
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-</div>
-</div>
-</div>
-
-
-<div style="display:flex;flex-direction:row;justify-content:space-around;">
-<img  width="270px"  height="270px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreepathiavinashkumar&show_icons=true&locale=en&layout=compact" alt="sreepathiavinashkumar" />
-
-<img width="360px" height="270px" src="https://github-readme-stats.vercel.app/api?username=sreepathiavinashkumar&show_icons=true&locale=en" alt="sreepathiavinashkumar" />
-</div>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sreepathiavinashkumar/sreepathiavinashkumar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>

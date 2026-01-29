@@ -1,11 +1,6 @@
 # ⚡ Hello World, I'm Avinash Kumar 
 ### 🚀 Passionate AI Engineer & Full-Stack Developer from India
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreepathiavinashkumar&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sreepathiavinashkumar&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" height="180px" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me

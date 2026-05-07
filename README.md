@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 🔭 **Focus:** Deep Learning, Machine Learning, and Audio Signal Processing.
 - 🌱 **Learning:** Advanced DNN architectures for speech solutions and signal processing.
-- 💬 **Ask me about:** React, Django, Python, and MLOps.
+- 💬 **Ask me about:** React, Django, Python.
 - 🎯 **Goal:** Building innovative AI-driven tools that solve real-world problems.
 - 📄 **Portfolio:** [sreepathiavinashkumar.github.io/portfolio](https://sreepathiavinashkumar.github.io/portfolio)
 
